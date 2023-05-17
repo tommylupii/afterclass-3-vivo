@@ -1,0 +1,24 @@
+body{
+    color: #FC4308;
+}
+
+.navbar .collapse.navbar-collapse{
+    flex-grow: inherit;
+}
+
+.navbar a{
+    color: #FC4308;
+}
+
+.navbar .collapse li a{
+    color: #FC4308;
+}
+
+/* Fijarse lo de que se cambie a negro en la grabacion */
+.nav-link:focus, .nav-link:hover{
+    color: #FC4308;
+}
+
+.navbar-toggler:focus{
+    box-shadow: none;
+}
